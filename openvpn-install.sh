@@ -2,8 +2,7 @@
 # OpenVPN road ez-mode installer for Debian, Ubuntu and CentOS
 
 # This script will work on Debian, Ubuntu, CentOS and probably other distros
-# of the same families, although no support is offered for them. It isn't
-# bulletproof but it will probably work if you simply want to setup a VPN on
+# of the same families, although no support is offered for them. It will probably work if you simply want to setup a VPN on
 # your Debian/Ubuntu/CentOS box. It has been designed to be as unobtrusive and
 # universal as possible.
 
